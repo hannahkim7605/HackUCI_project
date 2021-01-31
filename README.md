@@ -1,3 +1,3 @@
 # HackUCI_project
 
-This project was designed to raise awareness on internet security and privacy (?)
+This project was designed to raise awareness on internet security
