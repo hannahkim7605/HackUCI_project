@@ -1,0 +1,85 @@
+/*Subia Ansari <!-- Subia Ansari github.com/thegeeklife -->*/
+
+body{
+	margin:0;
+	font-family: "Verdana";
+	background-image: url("images/img.jpeg");
+	letter-spacing: 1px;
+}
+
+.caro{
+	background-image: url("images/car.jpeg");
+}
+
+h1{
+	text-align: center;
+	text-shadow: 1px 1px 1px black;
+	line-height: 1.1;
+	padding: 20px 0;
+	color: #EC6939;
+	margin: 0;
+	font-weight: normal;
+	text-transform: uppercase;
+	background-color: white;
+	opacity: 0.98;
+	box-shadow: white;
+	font-weight: bold;
+}
+
+
+.description{
+	font-size: 1.2em;
+	background-color: /*#000018*/ #d7bde2;
+    opacity: 0.95;
+ 	color: /*#aaffff*/ #000018;
+    width: 50%;
+    margin-right: 5%; 
+    border-radius: 5%;
+    margin-bottom: 15%;
+    margin-left: 22%;
+    margin-top: 5%;
+    box-shadow: #39ff14;
+}
+
+.final_page_body{
+	font-size: 1.2em;
+	background-color: #d7bde2;
+    opacity: 0.98;
+ 	color: #000018;
+    width: 50%;
+    margin-right: 5%; 
+    border-radius: 5%;
+    margin-bottom: 15%;
+    margin-left: 22%;
+    margin-top: 5%;
+    box-shadow: #39ff14;
+    text-align: center;
+}
+
+a{
+	color:white;
+}
+
+a:hover{
+	color:black;
+}
+
+p{
+	padding: 15px 10px;
+}
+
+.bottom{
+	padding-right: 10px;
+	padding-top: 15px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+}
+
+.bt{
+    padding: 2%;
+    text-align: center;
+}
+
+.button{
+	align-content: center;
+}
