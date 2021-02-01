@@ -17,7 +17,7 @@ function createInfoList(json) {
 
     let divElement = jQuery("#visitor_info");
     let HTML = "";
-    HTML += "<h2>There's more we've found out you... </h2>";
+    HTML += "<h2>There's more we've found out about you... </h2>";
     HTML += "<ul>";
     HTML += "<li>IP Address: " + ip_addr + "</li>";
     HTML += "<li>IP version: " + type + "</li>";
